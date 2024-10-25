@@ -4,5 +4,6 @@ public class AvashRunner {
         int y = 10;
         System.out.println("a change is the creation of x and the setting to 10.");
         System.out.println(y + " this is also a change as i changed the x variable to y");
+        System.out.println("jojo siwa is the best.");
     }
 }
